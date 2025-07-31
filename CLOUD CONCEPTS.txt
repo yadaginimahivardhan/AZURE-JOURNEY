@@ -1,0 +1,7 @@
+
+CLOUD CONCEPTS :
+
+- Cloudcomputing 
+- IAAS VS PAAS VS SAAS
+- Types of cloud : Public private hybrid
+- Benefits
